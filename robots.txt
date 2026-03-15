@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dg123000123-tech.github.io/ktoto-site/sitemap.xml
